@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandhyanegi/myapp2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandhyanegi/myapp2/issues"
+  },
+  "homepage": "https://github.com/Sandhyanegi/myapp2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
